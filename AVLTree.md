@@ -8,11 +8,15 @@ Balancing the tree makes for better search times O(log(n)) as opposed to O(n). A
 
 ##### Explain the algorithm for inserting node into an AVL tree using the sequence 14,17,19,7,5,10,18. Show how the tree looks like after every important step.
 
-Step 1 - Insert the new element into the tree using Binary Search Tree insertion logic.
-Step 2 - After insertion, check the Balance Factor of every node.
-Step 3 - If the Balance Factor of every node is 0 or 1 or -1 then go for next operation.
-Step 4 - If the Balance Factor of any node is other than 0 or 1 or -1 then that tree is said to be imbalanced. In this case, perform suitable Rotation to make it balanced and go for next operation.
+* Step 1 - Insert the new element into the tree using Binary Search Tree insertion logic.<br />
+* Step 2 - After insertion, check the Balance Factor of every node.<br />
+* Step 3 - If the Balance Factor of every node is 0 or 1 or -1 then go for next operation.<br />
+* Step 4 - If the Balance Factor of any node is other than 0 or 1 or -1 then that tree is said to be imbalanced. In this case, perform suitable Rotation to make it balanced and go for next operation.<br />
 
-*Insert 14* 
-
-Tree is Balanced
+*Insert 14* <br />
+<img src="images/Image1.png" width="100"> <br />
+Tree is Balanced <br />
+<br />
+*Insert 17*<br />
+<img src="images/Image2.png" width="300"> <br />
+Tree is Balanced <br />
