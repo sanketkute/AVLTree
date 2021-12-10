@@ -14,11 +14,12 @@ Balancing the tree makes for better search times O(log(n)) as opposed to O(n). A
 * Step 4 - If the Balance Factor of any node is other than 0 or 1 or -1 then that tree is said to be imbalanced. In this case, perform suitable Rotation to make it balanced and go for next operation.<br />
 
 *Insert 14* <br />
-<img src="images/Image1.png" width="100"> <br />
+![](https://github.com/sanketkute/AVLTree/blob/main/images/Image1.png?raw=true) <br />
 Tree is Balanced <br />
 <br />
 *Insert 17*<br />
-<img src="images/Image2.png" width="300"> <br />
+![](https://github.com/sanketkute/AVLTree/blob/main/images/Image2.png?raw=true) <br />
 Tree is Balanced <br />
-
-![](https://github.com/sanketkute/AVLTree/blob/main/images/Image1.png?raw=true)
+<br />
+*Insert 19*<br />
+![image](https://user-images.githubusercontent.com/95900949/145534503-6ed9491f-47f3-45a9-aa76-e39a5c2fb74d.png)
