@@ -20,3 +20,5 @@ Tree is Balanced <br />
 *Insert 17*<br />
 <img src="images/Image2.png" width="300"> <br />
 Tree is Balanced <br />
+
+![](https://github.com/sanketkute/AVLTree/blob/main/images/Image1.png?raw=true)
